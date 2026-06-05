@@ -10,3 +10,6 @@ content/letter.html
 node_modules/
 .DS_Store
 *.log
+
+# private notes — keep local, never publish
+README.md
