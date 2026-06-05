@@ -1,0 +1,13 @@
+{
+  "v": 1,
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 200000
+  },
+  "salt": "+wk4EJaKKHbP5IGI1tHKhg==",
+  "iv": "wJkFLpKUBEebSeFB",
+  "ct": "qI5dbP/EgmQ139Z81X417g8NwKrJAsGzMwhZRFfYukoR5w5dDGZU/Ssphcv9PRg09fIsL4tWI3hiRu6hp1qKHGqnr+gTXqKwy1F1RbcSjpKyRJehcRDxjIAHTA3ERgednX9PYcF/apMmx6YDApk+bdhAbr5xme407U45iTa8687AY2DVO4ecWuybyo8K7Q/3fmCIvwvAz+2qxSfrZZow2IDNSQsgNIEJUIu/xYlyFQj3g9W/cmqXDzNslMqFTzO05Z3kaRh3l7oSejELiXwwKdxqmVFsug5MT+7fwKIX1/2/ta7KHqOiNrznpQUr/cbJdh6Wa+aNAPQiluNlhkHfGCgS3ATEFosRvMKThW8Wu+vJTQGZGiEapp6PA03jubBjPzSostdRtSJs1ljHMvzduOGUGYrnpEUQcisNf0YRBMnccLo39dTAQ+P41RN1R4BSRtwplxSR8SSZ61uKYEL7URVBnWSkdsKj0Pmb0G7V9wDFqTcdJxOCE2h9ReUHF/GycCYSBP9jrWe3t2wm4dNVaEHjgF7yIQpCc6n9bLF4bBBPvwcToI00bgbsHN8N2rbbOnZtrRcy2gV7BpDcTrNDbBRdSm4WDaQvwYRTnDYI0nfhVH4/WSFvNdbp1wUq+bo4dIjG3myZF8Nj8cqOSjxjnghsKjWOwrEBtUctWHPEI4NTkyUr7bzwahLWLJGKZ6kRSMX7pVDi4Dag9xjATebTTmUhq15ybKT03BLBeYQhjLEDpCl/e3iYKLtMjoG7FqU/n+T2ti3YEqs9joLBBAFdtLd9ZBqipCsY4y7Sae46KCjPpSKgOHh02xCg653Nzf8X/pEUI0ZbCZwQkCG1HUE0LtCmx8eY4ZQl/wsjy5wOdAyE4pfa10oSsWC2C8Wy1++lgd2jQQiW56os+TB6TtFnCUxM0yMREpVk69U7riXpztw/cD6x2OrUrpZuq3Icarq7DnLd3k+sFU0x3paDRVAheRSxSq0RBvx3R9CAGEkgYJ3ANM0WQncYO5/PIYb32fx38VL9e7YV8/CV5kuNH5lgAv6kCtDzvdPFbNbQntX7BX6YJZxowdxjTJ/30PjgjEzK75ABPJ8aslGh88npchjLlzhGrUS0RIZAzx53/nq+VOSRZDCyhAvm2BtC2cruCgJS8SEiHnBBEqJOOdvRxoOlVNR5xVlapGXXZpheHoZd6fdtDoItJWLttERlePOXSnB2UsAdXpEW6I1xLEWF5fcRHDq1e3GjHK7KNQy+1OEIAXrwX3/kasfpKi8CosYRh7ugN5kpqcDWdGF1oDcrjLScRw4gPlVD4m9y+cOx+cxYKCYLF57VLHVQIHBczpb35DJu/kBNNCIxDrc46WwS0zsWY3gms9MC6R/Ukb2h9df7FSynQR5i+JrHjTVY4lszDPFsm4dyMA8aYxe9Bezhu+3kzA3JV2d8g4mVDg6YQbkHca7rl7YWoeA9HhcQwIJ3C+1Rg/XudR7seZy5NZIiWSQWxxlED5qYqJ9PtP9+5MEv4Ne8AJ/EMYkVCtjqoZqqDH+ipuqhxDsCf8IVmkSflpPvIiYvjE2z2AqcsAYsdgRu0Q==",
+  "question": "Evaluate, then enter the value as the key:<br><span class='formula'>$$\\mathcal{L}\\{\\,1\\,\\}(s)=\\frac{1}{s}\\;,\\qquad \\int_{0}^{\\infty} e^{-t}\\,dt \\;=\\; \\boxed{\\,?\\,}$$</span><small>（占位题目 — replace with your real Laplace / Z-transform / integral）</small>",
+  "hint": "提示：算出那个变换或积分的值，把数字填进去就好。"
+}

@@ -1,0 +1,12 @@
+# Your secrets stay local — never pushed to GitHub.
+
+# contains the password (your math answer)
+content/config.json
+
+# the plaintext letter
+content/letter.html
+
+# misc
+node_modules/
+.DS_Store
+*.log
