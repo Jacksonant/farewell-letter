@@ -13,3 +13,7 @@ node_modules/
 
 # private notes — keep local, never publish
 README.md
+
+# example templates — keep local, do not publish
+content/config.example.json
+content/letter.example.html

@@ -1,6 +1,0 @@
-{
-  "_comment": "Copy me to config.json (which is git-ignored). The password IS the answer to your math question. Question/hint may use LaTeX between $$...$$ and simple HTML.",
-  "password": "42",
-  "question": "Evaluate, then enter the value as the key:<br><span class='formula'>$$\\mathcal{L}\\{\\,1\\,\\}(s)=\\frac{1}{s}\\;,\\qquad \\int_{0}^{\\infty} e^{-t}\\,dt \\;=\\; \\boxed{\\,?\\,}$$</span><small>（占位题目 — replace with your real Laplace / Z-transform / integral）</small>",
-  "hint": "提示：算出那个变换或积分的值，把数字填进去就好。"
-}
